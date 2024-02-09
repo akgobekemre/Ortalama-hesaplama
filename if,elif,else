@@ -1,0 +1,10 @@
+isim = "emre"
+kullanıcı_adı = input("isim")
+if isim == kullanıcı_adı:
+    print("doğru girdiniz")
+elif kullanıcı_adı == "em":
+        print("yaklaştınız tekrar deneyiniz")
+elif kullanıcı_adı == "emr":
+    print("çok yaklaştınız tekrar deneyiniz")
+else:
+    print("yanlış girdiniz tekrar deneyiniz")
