@@ -1,0 +1,1 @@
+# temel-python-renme-s-recim
