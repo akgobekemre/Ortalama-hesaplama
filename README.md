@@ -1,1 +1,1 @@
-# temel-python-renme-s-recim
+# temel-python-öğrenme-sürecim
