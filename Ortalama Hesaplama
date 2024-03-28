@@ -1,0 +1,8 @@
+sınav_puanı = int(input("Birinci sınav Notunuzu Giriniz : "))
+sınav_puanı2 = int(input("İkinci Sınav Notunuzu Giriniz : "))
+sozlu_notu = int(input("Birinci sözlü Notunuzu Giriniz : "))
+sozlu_notu2 = int(input("İkinci Sözlü Notunuzu Giriniz : "))
+
+ortalama_hesaplama = (sınav_puanı+sınav_puanı2+sozlu_notu+sozlu_notu2)/4
+
+print(f"birinci sınav notu : {sınav_puanı}\nİkinci Sınav Notunuz {sınav_puanı2}\nBirinci Sölü Notunuz : {sozlu_notu}\nİkinci Sözlü Notunuz : {sozlu_notu2}\nOrtalamanız : {int(ortalama_hesaplama)}")
